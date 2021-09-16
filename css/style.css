@@ -82,9 +82,11 @@ nav ul li a:hover {
   background: url("../img/lum3n--RBuQ2PK_L8-unsplash\ \(1\).jpg") no-repeat
     center center/cover;
   width: 100%;
-  height: 100%;
+  height: 590px;
   position: absolute;
   z-index: -1;
+  opacity:0.87;
+  margin-top:121px;
 }
 
 .about-container {
@@ -94,8 +96,8 @@ nav ul li a:hover {
 .about-container h1 {
   font-family: "Bree Serif", serif;
   font-size: 3rem;
-  color: white;
-  margin: 60px 10px;
+  color: black;
+  margin: 124px 10px;
 }
 .about-container p {
   text-align: center;
