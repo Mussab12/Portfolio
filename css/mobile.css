@@ -1,0 +1,44 @@
+/* 551px */
+/* @media screen and (max-width:551px) { */
+/* body {
+        background-color: red; /*This is for debugging of mobile.css
+    }*/
+nav ul li a {
+  font-size: 10px;
+}
+.home-container h1 {
+  font-size: 2rem;
+}
+.home-container p {
+  width: 219px;
+}
+.about-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.about-container p {
+  width: 260px;
+}
+.card {
+  width: 124px;
+  height: 132px;
+}
+.card_image_a {
+  width: 152px;
+}
+#card_image {
+  width: 85px;
+}
+#card_image_2 {
+  width: 108px;
+}
+#card_image_3 {
+  width: 115px;
+}
+.icons p {
+  font-size: 12px;
+  text-align: center;
+}
+
+/* } */
