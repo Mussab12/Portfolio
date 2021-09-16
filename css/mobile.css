@@ -20,7 +20,7 @@ nav ul li a {
 .about-container p {
   width: 260px;
 }
-skill-cards {
+.skill-cards {
     display: flex;
     flex-direction: column;
     justify-content: center;
